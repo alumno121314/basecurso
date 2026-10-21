@@ -1,0 +1,70 @@
+{
+  "hash": "8473799f",
+  "configHash": "4652320b",
+  "lockfileHash": "5495a241",
+  "browserHash": "aa2bbc4d",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "f1a0acac",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3ca28150",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "d01c3fb5",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "e710a41b",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "d86be3a4",
+      "needsInterop": false
+    },
+    "lucide-angular": {
+      "src": "../../../../../../../../node_modules/lucide-angular/fesm2020/lucide-angular.mjs",
+      "file": "lucide-angular.js",
+      "fileHash": "e73890ee",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "654942a7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NXGOKZWG": {
+      "file": "chunk-NXGOKZWG.js"
+    },
+    "chunk-27MGJZ3Y": {
+      "file": "chunk-27MGJZ3Y.js"
+    },
+    "chunk-TFFSOKJM": {
+      "file": "chunk-TFFSOKJM.js"
+    },
+    "chunk-7TRHU7FY": {
+      "file": "chunk-7TRHU7FY.js"
+    },
+    "chunk-FSJ2FFUC": {
+      "file": "chunk-FSJ2FFUC.js"
+    },
+    "chunk-WO37JHK7": {
+      "file": "chunk-WO37JHK7.js"
+    }
+  }
+}
